@@ -7,9 +7,9 @@ Hyperclock - a clock of clocks
 
 ### Hardware Design
 
-#### PCB 
+- PCB
 
-#### Clock Fingers
+- Clock Fingers
 
 
 ### Motor Driver Firmware
