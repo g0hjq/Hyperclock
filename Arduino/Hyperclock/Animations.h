@@ -4,6 +4,7 @@
 #include <Arduino.h>
 #include "Panel.h"
 
+// The total number of animation functions
 #define NUMBER_OF_ANIMATIONS 13
 
 void animation_1();
@@ -20,7 +21,10 @@ void animation_11();
 void animation_12();
 void animation_13();
 
+// Run one animation, selected by number
 void execute_animation(byte number);
+
+// Run one or more random animations
 void do_random_animations(byte count);
 
 #endif

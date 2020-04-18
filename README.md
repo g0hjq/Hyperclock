@@ -7,14 +7,18 @@ Hyperclock - a clock of clocks
 
 ### Hardware Design
 
+- Circuit
+
 - PCB
 
 - Clock Fingers
 
 
-### Motor Driver Firmware
+### PIC Motor Driver Firmware
 
 ### Arduino Controller 
+
+### PIC Commands
 
 ### Usage
 
